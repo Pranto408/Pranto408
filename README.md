@@ -8,7 +8,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+Expert;Building+Scalable+Web+Applications;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 </a>
 
+<br/>
 
+<!-- Profile Views & Followers Badges -->
+<img src="https://komarev.com/ghpvc/?username=Pranto408&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/Pranto408?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=FOLLOWERS" alt="Followers"/>
 
 </div>
 
@@ -62,6 +67,21 @@ I'm **Pranto Dutta**, a passionate **Full Stack Developer** who loves turning id
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Pranto408&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff&border_radius=12" width="48%" alt="GitHub Stats"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranto408&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7&border_radius=12" width="48%" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranto408&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff&border_radius=12&langs_count=8" width="48%" alt="Top Languages"/>
+
+</div>
+
+---
 
 ## 🔗 Connect With Me
 
@@ -71,6 +91,14 @@ I'm **Pranto Dutta**, a passionate **Full Stack Developer** who loves turning id
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranto408)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prantodatta408@gmail.com)
 
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranto408&bg_color=0D1117&color=A855F7&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
 </div>
 
 ---
