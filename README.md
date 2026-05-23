@@ -8,12 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+Expert;Building+Scalable+Web+Applications;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 </a>
 
-<br/>
 
-<!-- Profile Views & Followers Badges -->
-<img src="https://komarev.com/ghpvc/?username=Pranto408&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/Pranto408?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=FOLLOWERS" alt="Followers"/>
 
 </div>
 
