@@ -71,13 +71,13 @@ I'm **Pranto Dutta**, a passionate **Full Stack Developer** who loves turning id
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pranto408&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff&border_radius=12" width="48%" alt="GitHub Stats"/>
+
 &nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranto408&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7&border_radius=12" width="48%" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranto408&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff&border_radius=12&langs_count=8" width="48%" alt="Top Languages"/>
+
 
 </div>
 
