@@ -62,22 +62,6 @@ I'm **Pranto Dutta**, a passionate **Full Stack Developer** who loves turning id
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranto408&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7&border_radius=12" width="48%" alt="GitHub Streak"/>
-
-<br/><br/>
-
-
-
-</div>
-
----
-
 ## 🔗 Connect With Me
 
 <div align="center">
