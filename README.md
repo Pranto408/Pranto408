@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pranto%20Dutta&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pranto%20Dutta&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=MERN%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -18,7 +18,7 @@
 
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-I'm **Pranto Dutta**, a passionate **Full Stack Developer** who loves turning ideas into elegant, real-world web applications. I enjoy working across the entire stack — from crafting pixel-perfect UIs to architecting robust backends.
+I'm **Pranto Dutta**, a passionate **MERN Stack Developer** who loves turning ideas into elegant, real-world web applications. I enjoy working across the entire stack — from crafting pixel-perfect UIs to architecting robust backends.
 
 - 🔭 I'm currently **exploring Next.js** and building production-ready apps
 - 🌱 Always learning new tools and best practices in web development
